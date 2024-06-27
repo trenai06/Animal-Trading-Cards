@@ -39,6 +39,11 @@ h1{
 
 }
 
+.strength, .weak{
+    list-style-type: none;
+    text-align: center;
+}
+
 .image{
     height:190px;
     width: 250px; 
